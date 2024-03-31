@@ -30,7 +30,7 @@ function Header() {
           {/* Site navigation */}
           <nav className="flex flex-grow">
             <ul className="flex flex-grow justify-end flex-wrap items-center">
-              <li className='w-6 h-6 hover:cursor-pointer' ><img src={'/images/Telegram.png'}  alt='Telegram'/></li>
+              <li href="https://t.me/FATP2ETON"  className='w-6 h-6 hover:cursor-pointer' ><a className='w-6 h-6' href="https://t.me/FATP2ETON" ><img src={'/images/Telegram.png'}  alt='Telegram'/></a></li>
               {/* <li><img src='' alt='Twitter'/></li> */}
             </ul>
 
