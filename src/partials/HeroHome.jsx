@@ -44,7 +44,7 @@ function HeroHome({scrolltoPage}) {
           <div>
             <div className="relative flex justify-center mb-8" data-aos="zoom-y-out" data-aos-delay="450">
               <div className="flex flex-col justify-center">
-                <img className="mx-auto" src={"src/images/panda2.png"} width="768" height="432" alt="Hero" />
+                <img className="mx-auto" src={"../public/panda2.png"} width="768" height="432" alt="Hero" />
                 
               </div>
 

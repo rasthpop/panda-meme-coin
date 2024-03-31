@@ -28,7 +28,7 @@ function FeaturesBlocks() {
               </a>
             </div>
             <div className=' relative flex '>
-              <img src='src/images/tokenomics.png' />
+              <img src='../public/tokenomics.png' />
               <div className='text-left absolute top-24 right-16 md:text-2xl lg:text-3xl font-extrabold flex flex-col text-gray-600 ml-3' ><span>31%</span> <span className='text-xl'>Team & Def</span></div>
               <div className='text-right absolute bottom-32 left-20 md:text-2xl  lg:text-3xl font-extrabold flex flex-col text-white' ><span>69%</span> <span className='text-xl'>DEX Liquid</span></div>
             </div>
