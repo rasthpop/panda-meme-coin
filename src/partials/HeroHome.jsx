@@ -26,7 +26,7 @@ function HeroHome({scrolltoPage}) {
               </p>
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
                 <div>
-                  <a  className="btn text-white bg-bamboo-200 hover:bg-bamboo-400 w-full mb-4 sm:w-auto sm:mb-0" href="#0">
+                  <a href="https://t.me/FATP2ETON" className="btn text-white bg-bamboo-200 hover:bg-bamboo-400 w-full mb-4 sm:w-auto sm:mb-0" >
                     Explore Panda meme
                   </a>
                 </div>
