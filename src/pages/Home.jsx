@@ -11,7 +11,7 @@ import Footer from '../partials/Footer';
 function Home() {
 
   return (
-    <div className="flex flex-col min-h-screen overflow-hidden bg-[url('../public/background.png')] bg-contain">
+    <div className="flex flex-col min-h-screen overflow-hidden bg-[url('/images/background.png')] bg-contain">
 
 
       <Header />

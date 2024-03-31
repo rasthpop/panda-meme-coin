@@ -23,14 +23,14 @@ function Header() {
           <div className="flex-shrink-0 mr-4 w-12 h-12 ">
             {/* Logo */}
             <Link to="/" className="block" aria-label="Cruip">
-              <img className='rounded-2xl' src={'/panda.png'} />
+              <img className='rounded-2xl' src={'/images/panda.png'} />
             </Link>
           </div>
 
           {/* Site navigation */}
           <nav className="flex flex-grow">
             <ul className="flex flex-grow justify-end flex-wrap items-center">
-              <li className='w-6 h-6 hover:cursor-pointer' ><img src={'/Telegram.png'}  alt='Telegram'/></li>
+              <li className='w-6 h-6 hover:cursor-pointer' ><img src={'/images/Telegram.png'}  alt='Telegram'/></li>
               {/* <li><img src='' alt='Twitter'/></li> */}
             </ul>
 

@@ -133,11 +133,11 @@ function Features() {
 
               </div>
             </div>
-          <div className='flex justify-center h-full w-[80%] order-1 bg-[url("/pole.png")] bg-no-repeat bg-center'>
+          <div className='flex justify-center h-full w-[80%] order-1 bg-[url("/images/pole.png")] bg-no-repeat bg-center'>
             <motion.div 
               animate={{ y:scy*0.25 }}
               transition={{ type: 'spring', stiffness: 40, damping: 10 }}
-            ref={slide} ><img className=' z-30  left-[98px] ' src='/sliding.png'/></motion.div>
+            ref={slide} ><img className=' z-30  left-[98px] ' src='/images/sliding.png'/></motion.div>
             {/* <div className='z-10'><img className=' absolute left-[175px] object-contain' src='src/images/pole.png' /></div>     89PX FOR PANDA */}
             
           </div>
