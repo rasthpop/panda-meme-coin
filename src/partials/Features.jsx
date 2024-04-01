@@ -60,7 +60,7 @@ function Features() {
       
                 >
                   <div className='flex px-5 '>
-                    <div className='flex pr-5 font-bold text-xl items-center'>Q1</div>
+                    <div className='flex pr-5 font-bold text-xl items-center'>1.</div>
                     <div>Adding liquidity DEX.</div>
                   </div>
                 </a>
@@ -70,7 +70,7 @@ function Features() {
      
                 >
                   <div className='flex px-5'>
-                  <div className='flex pr-5 font-bold text-xl items-center'>Q2</div>
+                  <div className='flex pr-5 font-bold text-xl items-center'>2.</div>
                   <div>Liquidity lock 🔒.</div>
                   </div>
                 </a>
@@ -80,7 +80,7 @@ function Features() {
    
                 >
                   <div className='flex px-5'>
-                  <div className='flex pr-5 font-bold text-xl items-center'>Q3</div>
+                  <div className='flex pr-5 font-bold text-xl items-center'>3.</div>
                     <div>Boost liquidity.</div>
                   </div>
                 </a>
@@ -91,7 +91,7 @@ function Features() {
     
                 >
                   <div className='flex px-5'>
-                  <div className='flex pr-5 font-bold text-xl items-center'>Q4</div>
+                  <div className='flex pr-5 font-bold text-xl items-center'>4.</div>
                     <div>Token holder drop.</div>
                   </div>
                 </a>
@@ -102,7 +102,7 @@ function Features() {
    
                 >
                   <div className='flex px-5'>
-                  <div className='flex pr-5 font-bold text-xl items-center'>Q5</div>
+                  <div className='flex pr-5 font-bold text-xl items-center'>5.</div>
                     <div>NFT FAT Panda Drop holders.</div>
                   </div>
                 </a>
@@ -113,7 +113,7 @@ function Features() {
     
                 >
                   <div className='flex px-5'>
-                  <div className='flex pr-5 font-bold text-xl items-center'>Q6</div>
+                  <div className='flex pr-5 font-bold text-xl items-center'>6.</div>
                     <div>NFT sale: one panda per wallet.</div>
                   </div>
                 </a>
@@ -124,7 +124,7 @@ function Features() {
                 
                 >
                   <div className='flex px-5'>
-                  <div className='flex pr-5 font-bold text-xl items-center'>Q7</div>
+                  <div className='flex pr-5 font-bold text-xl items-center'>7.</div>
                     <div>FAT Panda game available on web platform and Telegram.</div>
                   </div>
                 </a>
